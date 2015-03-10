@@ -1,14 +1,11 @@
-package test;
+package test.test;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
-import underfolder.Hello_World;
-
 
 import org.junit.Test;
 
 public class Hello_WorldTest {
-
 	@Test
 	public void testHelloWorld() {
 		fail("Not yet implemented");

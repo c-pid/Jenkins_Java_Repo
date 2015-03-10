@@ -1,11 +1,12 @@
-package test;
+package test.test;
 
-import static org.junit.Assert.*;
-import underfolder.String_Inverter;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
 public class String_InverterTest {
+
 
 	@Test
 	public void testInvert() {
