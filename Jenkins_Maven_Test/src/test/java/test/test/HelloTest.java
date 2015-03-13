@@ -5,7 +5,7 @@ import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
-public class Hello_WorldTest {
+public class HelloTest {
 	@Test
 	public void testHelloWorld() {
 		fail("Not yet implemented");
